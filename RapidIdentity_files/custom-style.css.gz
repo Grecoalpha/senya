@@ -1,0 +1,6 @@
+
+.cs-login-logo {
+  background: url(https://ccps-fims.ccpsnet.net/idauto-apps/files/CCPS-2014-01_trans-bg_250x140.png) 0 100% no-repeat;
+  background-position: center;
+  height: 140px;
+}
